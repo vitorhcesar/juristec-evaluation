@@ -1,0 +1,10 @@
+[project]
+name = "sixth-question"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyautogui>=0.9.54",
+    "selenium>=4.41.0",
+]
